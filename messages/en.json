@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "title": "Naji Alhusami | Full-Stack Developer",
+    "description": "Portfolio of Naji Alhusami, a Full-Stack Developer based in Kassel, Germany, with experience building modern web applications."
+  },
+  "accessibility": {
+    "skipToContent": "Skip to content",
+    "opensNewTab": "opens in a new tab"
+  },
+  "navigation": {
+    "label": "Primary navigation",
+    "about": "About",
+    "experience": "Experience",
+    "techStack": "Tech Stack",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "controls": {
+    "language": "Language",
+    "languageMenu": "Choose language",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu",
+    "theme": "Toggle color theme"
+  },
+  "hero": {
+    "eyebrow": "Full-Stack Developer",
+    "name": "Naji Alhusami",
+    "location": "Kassel, Germany",
+    "introduction": "Full-Stack Developer with a Master's degree in Computer Engineering and experience building modern web applications across frontend and backend.",
+    "viewProjects": "View Projects",
+    "downloadCv": "Download CV",
+    "cvPending": "CV file will be available soon",
+    "portraitAlt": "Professional portrait of Naji Alhusami",
+    "portraitPending": "Professional portrait",
+    "portraitHint": "Image coming soon"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Building thoughtful software from interface to API.",
+    "body": "I develop modern web applications with a focus on clear architecture, dependable performance and user-friendly interfaces. My background in Computer Engineering helps me work comfortably across frontend and backend concerns.",
+    "detail": "I enjoy turning practical requirements into maintainable products using TypeScript, React, Next.js, Node.js and related technologies.",
+    "degreeLabel": "Education",
+    "degreeValue": "M.Sc. Computer Engineering",
+    "baseLabel": "Based in",
+    "baseValue": "Kassel, Germany",
+    "languagesTitle": "Spoken languages",
+    "languages": [
+      {
+        "name": "German",
+        "level": "B1"
+      },
+      {
+        "name": "English",
+        "level": "C1"
+      },
+      {
+        "name": "Turkish",
+        "level": "B1"
+      },
+      {
+        "name": "Arabic",
+        "level": "Native"
+      }
+    ]
+  },
+  "experience": {
+    "eyebrow": "Experience",
+    "title": "Professional experience",
+    "intro": "Selected roles focused on building modern web interfaces, internal tools and reliable application workflows.",
+    "items": {
+      "witte": {
+        "role": "Full-Stack Developer",
+        "location": "Kassel, Germany",
+        "bullets": [
+          "Developed internal dashboards with Retool and JavaScript, supported by PostgreSQL queries.",
+          "Built a Next.js and TypeScript web application using server-side rendering and REST API integrations.",
+          "Contributed to the Skip the Counter project and developed frontend features with Angular.",
+          "Worked on test automation using Cypress.",
+          "Collaborated with a Java and Spring Boot backend team."
+        ]
+      },
+      "undp": {
+        "role": "Frontend Developer",
+        "location": "Remote",
+        "bullets": [
+          "Developed the Radar Technology application using React.js and TypeScript.",
+          "Deployed the application using Gatsby."
+        ]
+      }
+    }
+  },
+  "education": {
+    "eyebrow": "Education",
+    "title": "Academic background and training",
+    "items": {
+      "masters": {
+        "degree": "M.Sc. Computer Engineering",
+        "location": "Istanbul"
+      },
+      "bachelors": {
+        "degree": "B.Sc. Information Systems Engineering",
+        "location": "Cyprus"
+      },
+      "bootcamp": {
+        "degree": "Frontend Development Bootcamp",
+        "location": "Online",
+        "detail": "300+ hours"
+      }
+    }
+  },
+  "techStack": {
+    "eyebrow": "Tech Stack",
+    "title": "Technologies I work with",
+    "intro": "A practical stack spanning modern interfaces, APIs, databases, testing and development tools.",
+    "groups": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "databases": "Databases",
+      "tools": "Testing & Tools"
+    }
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "title": "Selected software projects",
+    "intro": "Verified applications that demonstrate product thinking across frontend, backend and authentication workflows.",
+    "screenshotPending": "Project screenshot pending",
+    "github": "GitHub",
+    "liveDemo": "Live Demo",
+    "showMore": "Show More",
+    "items": {
+      "tennis": {
+        "title": "Tennis Club Booking App",
+        "description": "A booking platform for tennis courts with authentication, calendar integration and a training area."
+      },
+      "tastify": {
+        "title": "Tastify – Food Ordering App",
+        "description": "A marketplace where sellers can manage dishes and buyers can place orders, including authentication flows."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let's connect",
+    "body": "If you'd like to discuss a software engineering opportunity, feel free to get in touch.",
+    "email": "Email",
+    "linkedIn": "LinkedIn",
+    "github": "GitHub"
+  },
+  "footer": {
+    "rights": "Professional portfolio"
+  }
+}
